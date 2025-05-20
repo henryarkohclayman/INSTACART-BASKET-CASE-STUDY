@@ -100,7 +100,7 @@
     <ul>
       <li>Email: henryarkohclayman (at) gmail (dot) com</li>
       <li>GitHub: <a href="https://github.com/henryarkohclayman" target="_blank">@henryarkohclayman</a></li>
-      <li>Location: Ghana (open to remote work)</li>
+      <li>Location: Coventry,UK (open to remote work)</li>
     </ul>
   </section>
 
